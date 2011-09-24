@@ -1,0 +1,11 @@
+Name and Description: DriveThru
+Aggregates, curates, and presents news to a user in a specified time frame. A user inputs the amount of time they want to consume news for, and then we give it to em.
+		      
+List of Potential Data sources: RSS feed from one source, Chicago Tribune, Chicago suntimes?
+
+How will techincal pieces fit to together: have a backend written in something, that goes to a frontend written in something
+
+Initial Statement of technologies: We'll use some python framework. HTML5 frontend
+
+Risks: Repetitive presentation
+
